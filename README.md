@@ -10,3 +10,5 @@ This site is hosted using the <data data-icon="ei-sc-github"></data>  [jekyll-si
 
 Images should be added in the `assets/` folder and are added to posts as 
 `![]({{site.baseurl}}/assets/img/image.jpg)`
+
+This site is deployed using [Netlify](https://www.netlify.com/).
