@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Progressive Data Jobs
+email: anniejw6@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/jekyll-simple" # the subpath of your site, e.g. /blog
-url: "http://wildflame.me" # the base hostname & protocol for your site
-twitter_username: Taffyer 
-github_username:  wild-flame 
+  An aggregated collection of data, technology, and analytics jobs in 
+  progressive / Democratic politics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://progressivedatajobs.org" # the base hostname & protocol for your site
+# twitter_username: Taffyer 
+github_username:  anniejw6 
 
 # Build settings
 markdown: kramdown
@@ -24,8 +23,8 @@ kramdown:
 
 # Third-party services
 # just leave someone empty to disable it
-# google_analytics: 
-disqus_shortname:
+google_analytics: "UA-46478165-4"
+# disqus_shortname:
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->

@@ -1,16 +1,12 @@
-# jekyll-simple
+# Progressive Data Jobs
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+This site aggregates job postings involving data, analytics, and technology in progressive / Democratic politics.
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+If you would like to suggest a posting, please file an [issue](https://github.com/anniejw6/progressivedatajobs_site/issues) at <data data-icon="ei-sc-github"></data> [progressivedatajobs_site](https://github.com/anniejw6/progressivedatajobs_site).
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
+## Notes on Site
 
-## Story behind this theme
+This site is hosted using the <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple) theme.
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
-
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
-
-So mobile goes first, then the macOS.
+Images should be added in the `assets/` folder and are added to posts as 
+`![]({{site.baseurl}}/assets/img/image.jpg)`
