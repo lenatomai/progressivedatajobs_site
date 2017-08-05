@@ -18,8 +18,10 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+ - title: Submit
+   url: /submit
+ - title: Resources
+   url: /resources
 
 social:
 #   github: brianmaierjr
